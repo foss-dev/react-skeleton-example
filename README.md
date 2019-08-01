@@ -1,3 +1,6 @@
+## Demo
+Live Demo Surge.sh: [http://skeleton-example.surge.sh](http://skeleton-example.surge.sh)
+
 ## Available Scripts
 
 In the project directory, you can run:
