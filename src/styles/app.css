@@ -1,0 +1,27 @@
+#page-top {
+  position: relative;
+  top: 200px;
+}
+
+.fa {
+  padding: 16px 19px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 5px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: black;
+  color: white;
+}
